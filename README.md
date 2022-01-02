@@ -3,6 +3,7 @@
 
 ## setups
 - Run as Admin
+- choose any options
 - simple click and `Apply & Restart`
 
 ## And you are Good Go!!!
