@@ -8,4 +8,6 @@
 ## And you are Good Go!!!
 
 ## Don't Forget To Join My Discord Server
+<a href="https://discord.gg/8jDshxmC9a">
 <img src="Discord-LogoWordmark-Color.png" height="50px" width="150px" />
+</a>
